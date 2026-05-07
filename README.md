@@ -198,5 +198,3 @@ ASL_Detection/
 
 Harshit Rana
 
-::contentReference[oaicite:1]{index=1}
-```
